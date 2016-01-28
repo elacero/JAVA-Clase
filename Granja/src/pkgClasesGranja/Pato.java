@@ -4,7 +4,16 @@ public class Pato {
 	
 	//Propiedades del pato
 	private int Posicion;
+	private String Sexo;
 	
+	public String getSexo() {
+		return Sexo;
+	}
+
+	public void setSexo(String sexo) {
+		Sexo = sexo;
+	}
+
 	//Constructor
 	public Pato(int p)
 	{
