@@ -1,6 +1,0 @@
-Fichero para pruebas de Jhon
-<<<<<<< HEAD
-nuevos datos de Jessi
-y
-Nuevos datos de Jhon
->>>>>>> origin/master
